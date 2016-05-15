@@ -1,0 +1,35 @@
+https://www.zotero.org/
+
+What is Zotero? 
+
+A personal research assistant.
+
+Zotero is the only research tool that 
+automatically senses content in your web
+ browser, allowing you to add it to your 
+personal library with a single click. 
+Whether you're searching for a preprint 
+on arXiv.org, a journal article from JSTOR,
+ a news story from the New York Times, or a 
+book from your university library catalog, 
+Zotero has you covered with support for 
+thousands of sites.
+
+How do you use Zotero?
+
+1. Install Google Chrome at google.com/chrome
+2. After the installation,
+
+
+3. Sign into Google Chrome 
+
+USERNAME: thegoodstuffagb
+PASSWORD: thegoodstuff
+
+
+
+4. Install Zotero-4.0.29.5_setup.exe
+5. Install Zotero Standalone
+6. Now everytime you want to cite a source, on Google Chrome, click on the Zotero Extension. 
+7. Now it will sync with your Zotero Library (YOU MUST HAVE ZOTERO STANDALONE OPEN)
+8. Now go to Zotero Standalone, and now when you draw the source to Microsoft Word, you have an instant citation.

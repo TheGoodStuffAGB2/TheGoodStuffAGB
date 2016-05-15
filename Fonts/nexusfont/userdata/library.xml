@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+  <groups>
+    <group name="Sample Folder Group" expanded="true">
+      <folder>C:\Users\S201012821\Downloads</folder>
+      <folder>C:\Users\s201052506\Downloads</folder>
+      <folder>C:\Users\s201074473\Downloads</folder>
+    </group>
+  </groups>
+  <sets>
+    <set name="Sample Collection"/>
+  </sets>
+</library>

@@ -1,0 +1,6 @@
+In order to open BloonsTowerDefense, you must have Google Chrome Installed. 
+1. Install Google Chrome at google.com/chrome.
+2. After Google Chrome is installed, click once on Bloons.swf
+3. Look at the top window. Choose to open with a default program. Choose Google Chrome.
+
+ Now you can run BloonsTowerDefense

@@ -1,0 +1,10 @@
+1. Open nexus font 
+   nexusfont.exe
+2. Move the fonts you want into downloads. 
+when nexus font is open, look at your library.
+3. Right click on sample folder group
+4. Add a folder
+5. Locate the downloads foler. Make sure your fonts are only in downloads and not in a folder inside downloads
+6. Click ok.
+7. As long as you have NexusFont open, go on any program and type in the name of your font very precisley.
+   Now you have fonts installed!
